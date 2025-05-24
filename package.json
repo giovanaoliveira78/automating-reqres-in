@@ -1,0 +1,17 @@
+{
+  "name": "automating-reqres-in",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Giovana Oliveira",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^14.4.0"
+  },
+  "dependencies": {
+    "cypress-plugin-api": "^2.11.2"
+  }
+}
