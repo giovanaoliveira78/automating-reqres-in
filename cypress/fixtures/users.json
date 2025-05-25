@@ -6,5 +6,12 @@
   "invalidUser": {
     "email": "invalid@test.com",
     "password": "wrongpassword"
+  },
+  "userLogin": {
+    "email": "eve.holt@reqres.in",
+    "password": "cityslicka"
+  },
+  "userLoginFailed": {
+    "e-mail": "peter@klaven"
   }
 }
