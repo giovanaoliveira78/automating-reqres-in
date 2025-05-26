@@ -13,5 +13,9 @@
   },
   "userLoginFailed": {
     "e-mail": "peter@klaven"
+  },
+  "createUser": {
+    "name": "morpheus",
+    "job": "leader"
   }
 }
